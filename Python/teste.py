@@ -1,6 +1,5 @@
-i = 2
-while True:
-    if i%3 == 0:
-        break
-    print(i)
-    i += 2
+def leitura():
+    x = int(input("Digite um valor: "))
+    while x <= 0:
+        x = int(input("Digite um valor: "))
+    return x
