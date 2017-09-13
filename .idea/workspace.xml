@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4cf457f-5f5a-49db-8b1a-c4ee7336e8b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/6semana/welton_nim.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/exerc0801.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/inverte.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/maior_elemento.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/remove_repetidos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/remove_repetidos_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python3/8semana/soma_elementos.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/1semana/1semana.txt" afterPath="$PROJECT_DIR$/Python3/1semana/1semana.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/2semana/exers1e1.py" afterPath="$PROJECT_DIR$/Python3/2semana/exers1e1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/2semana/exers1e2.py" afterPath="$PROJECT_DIR$/Python3/2semana/exers1e2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/2semana/exers2e1.py" afterPath="$PROJECT_DIR$/Python3/2semana/exers2e1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/2semana/exers2e2.py" afterPath="$PROJECT_DIR$/Python3/2semana/exers2e2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/2semana/exers2e3.py" afterPath="$PROJECT_DIR$/Python3/2semana/exers2e3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/Buzz.py" afterPath="$PROJECT_DIR$/Python3/3semana/Buzz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/FizzyBuzz.py" afterPath="$PROJECT_DIR$/Python3/3semana/FizzyBuzz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/Verifiordenacao.py" afterPath="$PROJECT_DIR$/Python3/3semana/Verifiordenacao.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/exers03e08.py" afterPath="$PROJECT_DIR$/Python3/3semana/exers03e08.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/fuzzy.py" afterPath="$PROJECT_DIR$/Python3/3semana/fuzzy.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/3semana/parouimpar.py" afterPath="$PROJECT_DIR$/Python3/3semana/parouimpar.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/adjacentes.py" afterPath="$PROJECT_DIR$/Python3/4semana/adjacentes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/eprime.py" afterPath="$PROJECT_DIR$/Python3/4semana/eprime.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/fatorial.py" afterPath="$PROJECT_DIR$/Python3/4semana/fatorial.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/pimpar.py" afterPath="$PROJECT_DIR$/Python3/4semana/pimpar.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/soma_number.py" afterPath="$PROJECT_DIR$/Python3/4semana/soma_number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/4semana/teset.py" afterPath="$PROJECT_DIR$/Python3/4semana/teset.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/Python3/5semana/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/exerc0501.py" afterPath="$PROJECT_DIR$/Python3/5semana/exerc0501.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/fizzbuzz.py" afterPath="$PROJECT_DIR$/Python3/5semana/fizzbuzz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/maior_primo.py" afterPath="$PROJECT_DIR$/Python3/5semana/maior_primo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/maximo.py" afterPath="$PROJECT_DIR$/Python3/5semana/maximo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/maximo3.py" afterPath="$PROJECT_DIR$/Python3/5semana/maximo3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/test_bizzbuzz.py" afterPath="$PROJECT_DIR$/Python3/5semana/test_bizzbuzz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/5semana/vogal.py" afterPath="$PROJECT_DIR$/Python3/5semana/vogal.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python/teste.py" afterPath="$PROJECT_DIR$/Python3/teste.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a4cf457f-5f5a-49db-8b1a-c4ee7336e8b7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -364,6 +328,14 @@
       <option name="presentableId" value="Default" />
       <updated>1502549612810</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alterações feitas até o dia 13/09/2017">
+      <created>1505333576883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505333576884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -420,6 +392,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alterações feitas até o dia 13/09/2017" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterações feitas até o dia 13/09/2017" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
