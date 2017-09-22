@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4cf457f-5f5a-49db-8b1a-c4ee7336e8b7" name="Default" comment="" />
+    <list default="true" id="a4cf457f-5f5a-49db-8b1a-c4ee7336e8b7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python3/8semana/coh_piah.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,51 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exerc0801.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/8semana/exerc0801.py">
+      <file leaf-file-name="coh_piah.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3/9semana/coh_piah.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inverte.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python3/8semana/inverte.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="remove_repetidos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/8semana/remove_repetidos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maior_elemento.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/8semana/maior_elemento.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="soma_elementos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3/8semana/soma_elementos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="1071">
+              <caret line="143" column="7" lean-forward="false" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -122,6 +85,8 @@
         <option value="$PROJECT_DIR$/Python3/8semana/maior_elemento.py" />
         <option value="$PROJECT_DIR$/Python3/8semana/exerc0801.py" />
         <option value="$PROJECT_DIR$/Python3/8semana/inverte.py" />
+        <option value="$PROJECT_DIR$/Python3/8semana/coh_piah.py" />
+        <option value="$PROJECT_DIR$/Python3/9semana/coh_piah.py" />
       </list>
     </option>
   </component>
@@ -166,7 +131,7 @@
               <item name="Coursera" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera" type="462c0819:PsiDirectoryNode" />
               <item name="Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="8semana" type="462c0819:PsiDirectoryNode" />
+              <item name="9semana" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.inverte">
+  <component name="RunManager" selected="Python.coh_piah (1)">
     <configuration name="Nosetests in remove_repetidos_test.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,6 +189,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Coursera" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/3semana/Verifiordenacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="coh_piah (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/9semana" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Coursera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/9semana/coh_piah.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="coh_piah" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/8semana" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Coursera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/8semana/coh_piah.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,38 +278,22 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="soma_elementos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3/8semana" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Coursera" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3/8semana/soma_elementos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python.Verifiordenacao" />
-      <item index="1" class="java.lang.String" itemvalue="Python.remove_repetidos" />
-      <item index="2" class="java.lang.String" itemvalue="Python.soma_elementos" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.coh_piah" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Verifiordenacao" />
+      <item index="2" class="java.lang.String" itemvalue="Python.remove_repetidos" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in remove_repetidos_test.py" />
       <item index="4" class="java.lang.String" itemvalue="Python.maior_elemento" />
       <item index="5" class="java.lang.String" itemvalue="Python.inverte" />
+      <item index="6" class="java.lang.String" itemvalue="Python.coh_piah (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.inverte" />
-        <item index="1" class="java.lang.String" itemvalue="Python.maior_elemento" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in remove_repetidos_test.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.remove_repetidos" />
-        <item index="4" class="java.lang.String" itemvalue="Python.soma_elementos" />
+        <item index="0" class="java.lang.String" itemvalue="Python.coh_piah (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.inverte" />
+        <item index="2" class="java.lang.String" itemvalue="Python.maior_elemento" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in remove_repetidos_test.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.remove_repetidos" />
       </list>
     </recent_temporary>
   </component>
@@ -350,11 +333,11 @@
     <frame x="0" y="25" width="2560" height="1031" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28082737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38742858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -402,20 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python3/5semana/fizzbuzz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/5semana/vogal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python3/5semana/maximo3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -692,19 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/8semana/soma_elementos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python3/5semana/test_bizzbuzz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,25 +672,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python3/8semana/remove_repetidos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="425">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python3/8semana/maior_elemento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/8semana/soma_elementos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/8semana/coh_piah.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="83" column="23" lean-forward="false" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3/8semana/inverte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -742,10 +718,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python3/8semana/inverte.py">
+    <entry file="file://$PROJECT_DIR$/Python3/9semana/coh_piah.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="1071">
+          <caret line="143" column="7" lean-forward="false" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
           <folding />
         </state>
       </provider>
